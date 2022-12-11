@@ -1,0 +1,53 @@
+if game.PlaceId == 3233893879 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Bad_Business"))()
+end
+
+if game.PlaceId == 3527629287 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Big_Paintball"))()
+end
+
+if game.PlaceId == 10705886260 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Chapter1Strucid"))()
+end
+
+if game.PlaceId == 8962384769 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Firework_Simulator"))()
+end
+
+if game.PlaceId == 621129760 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/KAT"))()
+end
+
+if game.PlaceId == 3339374541 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Midnight_Racing"))()
+end
+
+if game.PlaceId == 292439477 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Phantom_Forces"))()
+end
+
+if game.PlaceId == 6974981350 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Project_Bronze"))()
+end
+
+if game.PlaceId == 443406476 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Project_Lazarus"))()
+end
+
+if game.PlaceId == 7991339063 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Rainbow_Friends"))()
+end
+
+if game.PlaceId == 9772878203 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Raised_By_Floppa"))()
+end
+
+if game.PlaceId == 6403373529 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Slap_Battles"))()
+end
+
+if game.PlaceId == 2377868063 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Strucid"))()
+end
+
+
