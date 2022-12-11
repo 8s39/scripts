@@ -8,6 +8,10 @@ b:Button("Detect Game",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/8s39/scripts/main/detector"))()
 end)
 
+b:Button("Arsenal",function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Arsenal"))()
+end)
+
 b:Button("Bad Buisness",function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Bad_Business"))()
 end)
