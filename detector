@@ -1,3 +1,7 @@
+if game.PlaceId == 286090429 then
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Arsenal"))()
+end
+
 if game.PlaceId == 3233893879 then
    loadstring(game:HttpGet("https://raw.githubusercontent.com/RandomAdamYT/DarkHub_V4/main/Bad_Business"))()
 end
